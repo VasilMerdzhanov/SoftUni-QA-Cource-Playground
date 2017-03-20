@@ -5,3 +5,4 @@ SoftUni-QA-Cource-Playground
 #Edit for bug #3
 Edit clouse #3
 Edit close #3
+Edit close #4
